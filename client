@@ -1,0 +1,2 @@
+service.name=ms Client
+service.log.level=INFO
